@@ -27,5 +27,5 @@ Before you begin, ensure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone 
+   git clone git@github.com:VaibhavGobre08/Flask-User-Authentication.git
 
